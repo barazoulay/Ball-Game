@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{f6d3638a-7052-4105-9d18-1116133a8b10}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9de4a1eb-131f-4236-9fd9-91b318354bfd}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{4c129e76-be7c-4b3e-a18f-afe6cab6afaf}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UNDOREDO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Dlg.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UNDOREDO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Dlg.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Dlg.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\download.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\downloadBmp.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\download1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\load1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\leftright.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\move.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\bitmap6.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\move3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\down1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\remove.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\undo.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\redo.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\reka.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\images2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\bitmap12.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\אייקונים\images3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ClassDiagram3.cd" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dlg">
+</Property><Property Name="Solution File" Value="C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Dlg.sln">
+</Property><Property Name="User Options File" Value="C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Dlg.suo">
+</Property><Property Name="Date" Value="יום ראשון 11 ינואר 2015">
+</Property><Property Name="Time" Value="12:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dlg.sln" Description="File successfully backed up as C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Dlg.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Dlg.suo" Description="File successfully backed up as C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Dlg.suo.old">
+</Event><Event ErrorLevel="0" Project="Dlg" Source="Dlg.vcproj" Description="Converting project file 'C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Dlg.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Dlg" Source="Dlg.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Dlg" Source="Dlg.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\.\Debug\Dlg.exe') does not match the Linker's OutputFile property value '.\Debug/Dlg.exe' ('C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Debug/Dlg.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Dlg" Source="Dlg.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\.\Release\Dlg.exe') does not match the Linker's OutputFile property value '.\Release/Dlg.exe' ('C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Release/Dlg.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Dlg" Source="Dlg.vcproj" Description="Done converting to new project file 'C:\Users\user109\Desktop\P9\2-DlgGDI\serializable\Dlg5\Dlg.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Dlg" Source="Dlg.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dlg.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dlg.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,44 @@
+﻿Build started 30/01/2017 19:07:27.
+     1>Project "C:\Users\bar\Desktop\פרוייקט\Bar & Shoval project\Dlg.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\Dlg.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug/Dlg.pch" /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug/Dlg.pch" /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Dlg.cpp DlgDlg.cpp Figure.cpp UNDOREDO.cpp
+         UNDOREDO.cpp
+         Figure.cpp
+         DlgDlg.cpp
+     1>c:\users\bar\desktop\פרוייקט\bar & shoval project\dlgdlg.cpp(258): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+         Dlg.cpp
+     1>c:\users\bar\desktop\פרוייקט\bar & shoval project\dlg.cpp(51): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(5344) : see declaration of 'CWinApp::Enable3dControls'
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0409" /nologo /fo".\Debug\Dlg.res" Dlg.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\Dlg.exe.embed.manifest.res" .\Debug\Dlg_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/Dlg.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\Dlg.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/Dlg.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\Dlg.lib" /MACHINE:X86 .\Debug\Dlg.res
+         .\Debug\Dlg.exe.embed.manifest.res
+         .\Debug/Dlg.obj
+         .\Debug/DlgDlg.obj
+         .\Debug/Figure.obj
+         .\Debug/StdAfx.obj
+         .\Debug/UNDOREDO.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\Dlg.exe.embed.manifest" /manifest .\Debug\Dlg.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Dlg.vcxproj -> C:\Users\bar\Desktop\פרוייקט\Bar & Shoval project\.\Debug\Dlg.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\Dlg.unsuccessfulbuild".
+         Touching ".\Debug\Dlg.lastbuildstate".
+     1>Done Building Project "C:\Users\bar\Desktop\פרוייקט\Bar & Shoval project\Dlg.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.32
